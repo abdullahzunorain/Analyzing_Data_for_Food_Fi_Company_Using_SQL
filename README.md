@@ -2,8 +2,7 @@
  
 ### Introduction:
 Subscription based businesses are super popular and Danny realised that there was a large gap
-in the market - he wanted to create a new streaming service that only had food related content
-- something like Netflix but with only cooking shows!
+in the market - he wanted to create a new streaming service that only had food related content something like Netflix but with only cooking shows!
   
 Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling
 monthly and annual subscriptions, giving their customers unlimited on-demand access to
