@@ -1,5 +1,3 @@
-Certainly! Here's a summary of the SQL case study project on Foodie-Fi:
-
 **Project Overview:**
 Foodie-Fi is a fictional streaming service dedicated to culinary content, founded by Danny in 2020. The platform offers subscription options ranging from basic monthly plans to pro annual plans, with a focus on data-driven decision-making to optimize customer satisfaction and retention.
 
